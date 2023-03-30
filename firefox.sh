@@ -10,6 +10,6 @@ firefox
 
 printf "\n"
 
-echo "Done!"
+echo "Done!!!"
 
 printf "\n"
